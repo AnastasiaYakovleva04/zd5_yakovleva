@@ -1,0 +1,50 @@
+.content {
+    margin: 15;
+    padding: 10;
+    font-size: 16;
+    color: black;
+}
+#curDate{
+    justify-content: right;
+}
+button {
+    color: white;
+    background-color: lightskyblue;
+}
+#header{
+    font-size: 32;
+    font-weight: bold;
+}
+contentpage {
+    background-color: #303030;
+}
+
+#welcome-label {
+    font-size: 32;
+    color: white;
+    margin-bottom: 20;
+}
+#entries {
+    background: white;
+    color: black;
+}
+.sign-in-button {
+    background-color: #e53935;
+    color: white;
+    margin-top: 10;
+    padding: 15;
+    border-radius: 5;
+    font-size: 18;
+}
+.remember-me-checkbox {
+    color: white; 
+}
+
+.remember-me-label {
+    color: white;
+    margin-right: 20;
+}
+
+.forgot-password-label {
+    color: white;
+}

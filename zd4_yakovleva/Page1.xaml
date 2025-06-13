@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_yakovleva.Page1"
+             Title="Кредитный калькулятор" StyleId="header">
+    
+    <ContentPage.Content>
+        <StackLayout StyleClass="content">
+            
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Сумма кредита:"/>
+                <Entry x:Name="CreditSumEntry" Keyboard="Numeric" WidthRequest="100"/>
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Срок (месяцев):"/>
+                <Entry x:Name="TermEntry" Keyboard="Numeric" WidthRequest="100" />
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Вид платежа:" />
+                <Picker x:Name="PaymentTypePicker" WidthRequest="150">
+                    <Picker.Items>
+                        <x:String>Аннуитетный</x:String>
+                        <x:String>Дифференцированный</x:String>
+                        <x:String>Остаточный</x:String>
+                    </Picker.Items>
+                </Picker>
+            </StackLayout>
+
+            <Label Text="Процентная ставка:"/>
+            <Slider x:Name="PercentSlider" Minimum="0" Maximum="100" Value="5" HeightRequest="40"
+                    ValueChanged="PercentSlider_ValueChanged" 
+                    ThumbColor="CornflowerBlue" MaximumTrackColor="CornflowerBlue" MinimumTrackColor="CornflowerBlue"/>
+            <Label x:Name="PercentLabel" Text="5%" HorizontalTextAlignment="Center"/>
+
+            <Button Text="Рассчитать" Clicked="CalculateButton_Clicked" TextTransform="None"/>
+
+            <Label Text="Ежемесячный платеж:" />
+            <Label x:Name="MonthlyPaymentLabel" Text="...." />
+
+            <Label Text="Общая сумма:" />
+            <Label x:Name="TotalSumLabel" Text="...."/>
+
+            <Label Text="Переплата:" />
+            <Label x:Name="OverpaymentLabel" Text="...." />
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>
