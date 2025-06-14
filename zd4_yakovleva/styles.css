@@ -1,0 +1,63 @@
+.content {
+    margin: 15;
+    padding: 10;
+    font-size: 16;
+    color: black;
+}
+#curDate{
+    justify-content: right;
+}
+button {
+    border-radius: 30;
+    background-color: forestgreen;
+    color: white;
+    margin-bottom: 10;
+}
+picker{
+    color: white;
+    background-color: forestgreen;
+    text-align: center;
+}
+#header{
+    font-size: 32;
+    font-weight: bold;
+}
+^contentpage {
+    background-color: #f2fcf3;
+}
+
+#welcome-label {
+    font-size: 32;
+    color: white;
+    margin-bottom: 20;
+}
+#entries {
+    background: white;
+    color: black;
+}
+#sign-in-button {
+    background-color: #e53935;
+    color: white;
+    margin-top: 10;
+    padding: 15;
+    border-radius: 5;
+    font-size: 18;
+}
+#remember-me-checkbox {
+    color: white; 
+}
+
+#remember-me-label {
+    color: white;
+    margin-right: 20;
+}
+
+#forgot-password-label {
+    color: white;
+}
+.h1{
+    font-size: 25;
+    color: forestgreen;
+    font-weight: bold;
+    margin-bottom: 15;
+}

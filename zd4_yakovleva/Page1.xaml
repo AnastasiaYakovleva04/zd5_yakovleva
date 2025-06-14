@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_yakovleva.Page1"
+              StyleId="header">
+
+    <ContentPage.Resources>
+        <StyleSheet Source="styles.css" />
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        
+        <StackLayout StyleClass="content">
+            <Label Text="Кредитный калькулятор" StyleClass="h1"/>
+            <Grid>
+                
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="160"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Label Text="Сумма кредита:" Grid.Column="0" Grid.Row="0" VerticalOptions="Center"/>
+                <Entry x:Name="CreditSumEntry" Keyboard="Numeric" WidthRequest="100"  Grid.Column="1" Grid.Row="0" VerticalOptions="Center"/>
+
+                <Label Text="Срок (месяцев):"  Grid.Column="0" Grid.Row="1" VerticalOptions="Center"/>
+                <Entry x:Name="TermEntry" Keyboard="Numeric" WidthRequest="100"  Grid.Column="1" Grid.Row="1" VerticalOptions="Center" />
+
+                <Label Text="Вид платежа:"  Grid.Column="0" Grid.Row="2" VerticalOptions="Center"/>
+                <Picker x:Name="PaymentTypePicker" SelectedIndexChanged="OnPickerSelectedIndexChanged" WidthRequest="150"  Grid.Column="1" Grid.Row="2" VerticalOptions="Center">
+                    <Picker.Items>
+                        <x:String>Аннуитетный</x:String>
+                        <x:String>Дифференцированный</x:String>
+                        <x:String>Остаточный</x:String>
+                    </Picker.Items>
+                </Picker>
+                
+            </Grid>
+            
+            <Label Text="Процентная ставка:"/>
+            <Slider x:Name="PercentSlider" Minimum="0" Maximum="100" Value="5" HeightRequest="40"
+                    ValueChanged="PercentSlider_ValueChanged" 
+                    ThumbColor="White" MaximumTrackColor="LightGray" MinimumTrackColor="ForestGreen"/>
+            <Label x:Name="PercentLabel" Text="5%" HorizontalTextAlignment="Center"/>
+
+            <Button Text="Рассчитать" Clicked="CalculateButton_Clicked" TextTransform="None"/>
+
+            <Label Text="Ежемесячный платеж:" />
+            <Label x:Name="MonthlyPaymentLabel" Text="...." />
+
+            <Label Text="Общая сумма:" />
+            <Label x:Name="TotalSumLabel" Text="...."/>
+
+            <Label Text="Переплата:" />
+            <Label x:Name="OverpaymentLabel" Text="...." />
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

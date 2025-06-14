@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_yakovleva.Page3">
+    
+    <ContentPage.Resources>
+        <StyleSheet Source="styles.css" />
+    </ContentPage.Resources>
+    
+    <ContentPage.Content>
+        <StackLayout StyleClass="content">
+            <Label Text="Информация" StyleClass="h1"/>
+            <Label Text="{Binding SelectedItemText}" FontAttributes="Bold" TextDecorations="Underline"/>
+            <Label x:Name="description"/>
+            <Label Text="{Binding SliderValueText}"/>
+            <Label Text="{Binding UserMaxValueText}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
