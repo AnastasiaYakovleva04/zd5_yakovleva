@@ -1387,11 +1387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Админ\\source\\repos\\zd5_1_yakovleva\\CreditCalculatorTestsLibrary\\CreditCalculatorTestsLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Админ\\source\\repos\\zd5_yakovleva\\CreditCalculatorTestsLibrary\\CreditCalculatorTestsLibrary.csproj",
       "projectName": "CreditCalculatorTestsLibrary",
-      "projectPath": "C:\\Users\\Админ\\source\\repos\\zd5_1_yakovleva\\CreditCalculatorTestsLibrary\\CreditCalculatorTestsLibrary.csproj",
+      "projectPath": "C:\\Users\\Админ\\source\\repos\\zd5_yakovleva\\CreditCalculatorTestsLibrary\\CreditCalculatorTestsLibrary.csproj",
       "packagesPath": "C:\\Users\\Админ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Админ\\source\\repos\\zd5_1_yakovleva\\CreditCalculatorTestsLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Админ\\source\\repos\\zd5_yakovleva\\CreditCalculatorTestsLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1413,8 +1413,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Админ\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\zd4_yakovleva.csproj": {
-              "projectPath": "C:\\Users\\Админ\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\zd4_yakovleva.csproj"
+            "C:\\Users\\Админ\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\zd4_yakovleva.csproj": {
+              "projectPath": "C:\\Users\\Админ\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\zd4_yakovleva.csproj"
             }
           }
         }

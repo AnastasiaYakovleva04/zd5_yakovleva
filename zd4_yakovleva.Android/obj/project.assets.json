@@ -2348,11 +2348,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Админ\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva.Android\\zd4_yakovleva.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Админ\\source\\repos\\zd5_yakovleva\\zd4_yakovleva.Android\\zd4_yakovleva.Android.csproj",
       "projectName": "zd4_yakovleva.Android",
-      "projectPath": "C:\\Users\\Админ\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva.Android\\zd4_yakovleva.Android.csproj",
+      "projectPath": "C:\\Users\\Админ\\source\\repos\\zd5_yakovleva\\zd4_yakovleva.Android\\zd4_yakovleva.Android.csproj",
       "packagesPath": "C:\\Users\\Админ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Админ\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva.Android\\obj\\",
+      "outputPath": "C:\\Users\\Админ\\source\\repos\\zd5_yakovleva\\zd4_yakovleva.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2373,8 +2373,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Админ\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\zd4_yakovleva.csproj": {
-              "projectPath": "C:\\Users\\Админ\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\zd4_yakovleva.csproj"
+            "C:\\Users\\Админ\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\zd4_yakovleva.csproj": {
+              "projectPath": "C:\\Users\\Админ\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\zd4_yakovleva.csproj"
             }
           }
         }

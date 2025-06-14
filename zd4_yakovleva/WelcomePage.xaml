@@ -27,7 +27,7 @@
             </Grid.ColumnDefinitions>
             
             
-            <CheckBox StyleClass="remember-me-checkbox" Grid.Column="0" VerticalOptions="Center"/>
+            <CheckBox x:Name="cb" StyleClass="remember-me-checkbox" IsChecked="True" Grid.Column="0" VerticalOptions="Center"/>
             <Label Text="Remember me" StyleClass="remember-me-label" Grid.Column="1" VerticalOptions="Center"/>
             <Label Text="I forgot!" StyleClass="forgot-password-label" HorizontalOptions="End" Grid.Column="2" VerticalOptions="Center"/>
         </Grid>

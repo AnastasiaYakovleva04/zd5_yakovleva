@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|solutionrelative:zd4_yakovleva\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|solutionrelative:zd4_yakovleva\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|solutionrelative:zd4_yakovleva\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|solutionrelative:zd4_yakovleva\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A583666A-7407-4BF9-A6DA-0B1E2BDBAFF6}|CreditCalculatorTestsLibrary\\CreditCalculatorTestsLibrary.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\creditcalculatortestslibrary\\validationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A583666A-7407-4BF9-A6DA-0B1E2BDBAFF6}|CreditCalculatorTestsLibrary\\CreditCalculatorTestsLibrary.csproj|solutionrelative:creditcalculatortestslibrary\\validationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\welcomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "AbsoluteMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\welcomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|solutionrelative:zd4_yakovleva\\welcomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|solutionrelative:zd4_yakovleva\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|solutionrelative:zd4_yakovleva\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|solutionrelative:zd4_yakovleva\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A583666A-7407-4BF9-A6DA-0B1E2BDBAFF6}|CreditCalculatorTestsLibrary\\CreditCalculatorTestsLibrary.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\creditcalculatortestslibrary\\validationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A583666A-7407-4BF9-A6DA-0B1E2BDBAFF6}|CreditCalculatorTestsLibrary\\CreditCalculatorTestsLibrary.csproj|solutionrelative:creditcalculatortestslibrary\\validationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|solutionrelative:zd4_yakovleva\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "AbsoluteMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{EC0A645C-4C82-4F4F-88EE-4B1A6983FD21}|zd4_yakovleva\\zd4_yakovleva.csproj|solutionrelative:zd4_yakovleva\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,24 +50,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "zd4_yakovleva\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\MainPage.xaml.cs",
               "RelativeToolTip": "zd4_yakovleva\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T08:31:47.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ValidationTests.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\CreditCalculatorTestsLibrary\\ValidationTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\CreditCalculatorTestsLibrary\\ValidationTests.cs",
               "RelativeDocumentMoniker": "CreditCalculatorTestsLibrary\\ValidationTests.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\CreditCalculatorTestsLibrary\\ValidationTests.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\CreditCalculatorTestsLibrary\\ValidationTests.cs",
               "RelativeToolTip": "CreditCalculatorTestsLibrary\\ValidationTests.cs",
               "ViewState": "AgIAAPYAAAAAAAAAAAAcwCUBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,24 +75,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "WelcomePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\WelcomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\WelcomePage.xaml.cs",
               "RelativeDocumentMoniker": "zd4_yakovleva\\WelcomePage.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\WelcomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\WelcomePage.xaml.cs",
               "RelativeToolTip": "zd4_yakovleva\\WelcomePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T06:23:13.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Page1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\Page1.xaml.cs",
               "RelativeDocumentMoniker": "zd4_yakovleva\\Page1.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\Page1.xaml.cs",
               "RelativeToolTip": "zd4_yakovleva\\Page1.xaml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,23 +101,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "WelcomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\WelcomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\WelcomePage.xaml",
               "RelativeDocumentMoniker": "zd4_yakovleva\\WelcomePage.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\WelcomePage.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\WelcomePage.xaml",
               "RelativeToolTip": "zd4_yakovleva\\WelcomePage.xaml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-13T04:14:01.446Z"
+              "WhenOpened": "2025-06-13T04:14:01.446Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "styles.css",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\styles.css",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\styles.css",
               "RelativeDocumentMoniker": "zd4_yakovleva\\styles.css",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\styles.css",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\styles.css",
               "RelativeToolTip": "zd4_yakovleva\\styles.css",
               "ViewState": "AgIAAAwAAAAAAAAAAADwvycAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -125,24 +126,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Page1.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\Page1.xaml",
               "RelativeDocumentMoniker": "zd4_yakovleva\\Page1.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\Page1.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\Page1.xaml",
               "RelativeToolTip": "zd4_yakovleva\\Page1.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-12T11:14:34.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T11:14:34.628Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Page2.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\Page2.xaml",
               "RelativeDocumentMoniker": "zd4_yakovleva\\Page2.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_1_yakovleva\\zd4_yakovleva\\Page2.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\zd5_yakovleva\\zd4_yakovleva\\Page2.xaml",
               "RelativeToolTip": "zd4_yakovleva\\Page2.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ktM+LqNG+nQ=",
+  "dgSpecHash": "Q2/wSdXio8M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Админ\\source\\repos\\zd5_1_yakovleva\\CreditCalculatorTestsLibrary\\CreditCalculatorTestsLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Админ\\source\\repos\\zd5_yakovleva\\CreditCalculatorTestsLibrary\\CreditCalculatorTestsLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Админ\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Админ\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

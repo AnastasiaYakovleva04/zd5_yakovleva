@@ -16,6 +16,7 @@ namespace zd4_yakovleva
         public WelcomePage()
         {
             InitializeComponent();
+            cb.IsChecked = true;
         }
         async void OnSignInClicked(object sender, EventArgs e)
         {
@@ -37,7 +38,13 @@ namespace zd4_yakovleva
                 DisplayAlert("Ошибка", ex.Message, "OK");
                 return;
             }
-            NavigateToTabbedPage(username);
+            if (cb.IsChecked)
+                NavigateToTabbedPage(username);
+            else
+            {
+                DisplayAlert("Предупреждение","Нажмите галочку, чтобы ваше имя было отображено", "OK");
+                return;
+            }
 
         }
 
